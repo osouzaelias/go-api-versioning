@@ -62,3 +62,4 @@ go run .
 - Como funciona o versionamento semântico: [Semantic Versioning 2.0.0](https://semver.org)
 - Exemplo de como o GitHub versiona suas APIs: [API Versions](https://docs.github.com/en/rest/about-the-rest-api/api-versions?apiVersion=2022-11-28)
 - Ótimo livro sobre design de APIs: [API Design Patterns](https://www.manning.com/books/api-design-patterns)
+- Como a equipe da Apigee no Google Cloud aborda o tema de versionamento: [Versioning in API design](https://cloud.google.com/blog/products/api-management/api-design-which-version-of-versioning-is-right-for-you?m=1)
